@@ -1,0 +1,53 @@
+#main-form {
+  background: lightgreen;
+}
+
+#title {
+  text-align: center;
+}
+
+#form-container {
+  background: rgb(250, 250, 250);
+  text-align: center;
+  margin: 0 auto;
+  width: 75%;
+  max-width: 900px;
+  padding: 10px;
+  padding-top: 20px;
+  border-radius: 4px;
+}
+
+#description {
+  display: block;
+}
+
+.input-field {
+  padding: 5px;
+  margin: 5px;
+  width: 250px;
+}
+
+#dropdown {
+  margin-top: 8px;
+}
+
+.div-row {
+  display: block;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 30%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 5px;
+}
+
+.user-choices {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  width: 40%;
+  margin-top: 10px;
+}
